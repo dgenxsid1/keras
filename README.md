@@ -2,7 +2,7 @@
 models built on keras
 
 building a neural network in keras, and minimizing the errors for the model by performing different things..
-in the first project,i.e keras-1 , aimed at making a neural network then split the model into train ,test.. finally using multiple iterations
+the first project,i.e keras-1 , aimed at making a neural network ,then splitting the model into train ,test.. finally using multiple iterations
 to minimize the mean squared error.
 keras-2 .. aims at the same thing but with a normalized data set
 keras-3 aims at the same thing but with a normalized dataset and increasing the number of epochs in various stages , to note the changes
